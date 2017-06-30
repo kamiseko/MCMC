@@ -1,1 +1,1 @@
-# MCMC
+# Python library for MCMC
